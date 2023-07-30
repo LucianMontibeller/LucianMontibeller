@@ -1,5 +1,7 @@
-<img align="right" alt="Coding" width="1000" src="https://github.com/LucianMontibeller/LucianMontibeller/blob/main/banner.png?raw=true">
-🌟 Sobre Mim
+<img align="bottom" alt="Coding" width="1000" src="https://github.com/LucianMontibeller/LucianMontibeller/blob/main/banner.png?raw=true">
+
+## 🌟 Sobre Mim
+
 Oi, meu nome é Lucian Rafael Montibeller, e estou entusiasmado em embarcar nessa emocionante jornada pelo universo da programação! 💻🌌 Sou um estudante de Análise e Desenvolvimento de Sistemas, apaixonado por JavaScript e Python, e estou prontíssimo(a) para expandir meu conhecimento e transformar ideias em linhas de código brilhantes!
 
 ## 📚 Minha Formação
