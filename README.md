@@ -20,6 +20,7 @@ Oi, meu nome é Lucian Rafael Montibeller, e estou entusiasmado em embarcar ness
 <summary>  <img align="top" alt="Coding" width="50" src="https://github.com/LucianMontibeller/curso_udemy_Python-3-completo/blob/main/imagens/JavaScript-Logo.png">
 Curso udemy JavaScript - EM ANDAMENTO</summary> 
 <br>
+<img align="right" alt="Coding" width="200" src="https://github.com/LucianMontibeller/curso_udemy_Python-3-completo/blob/main/imagens/JavaScript-Logo.png">
 Seção 02: JavaScript Básico para iniciantes
 
 
