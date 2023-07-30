@@ -1,5 +1,4 @@
 <img align="right" alt="Coding" width="1000" src="https://github.com/LucianMontibeller/LucianMontibeller/blob/main/banner.png?raw=true">
-
 ## 🌟 Sobre Mim
 Oi, meu nome é Lucian Rafael Montibeller, e estou entusiasmado em embarcar nessa emocionante jornada pelo universo da programação! 💻🌌 Sou um estudante de Análise e Desenvolvimento de Sistemas, apaixonado por JavaScript e Python, e estou prontíssimo(a) para expandir meu conhecimento e transformar ideias em linhas de código brilhantes!
 
@@ -16,7 +15,8 @@ Oi, meu nome é Lucian Rafael Montibeller, e estou entusiasmado em embarcar ness
 
 ## Projetos em Destaque
 <details>
-<summary>🚀 Curso udemy JavaScript - EM ANDAMENTO</summary> 
+<summary>  <img align="top" alt="Coding" width="50" src="https://github.com/LucianMontibeller/curso_udemy_Python-3-completo/blob/main/imagens/JavaScript-Logo.png">
+Curso udemy JavaScript - EM ANDAMENTO</summary> 
 <br>
 Seção 02: JavaScript Básico para iniciantes
 
@@ -62,9 +62,32 @@ Seção 02: JavaScript Básico para iniciantes
 -  [aula20-exercicio-funcao-arrays-objetos](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao02-JavaScript-Basico-Para-iniciantes/aula20-exercicio-funcao-arrays-objetos)
 </details>
 
+
 <details>
 
-🚀 [Nome do Projeto 2](link_para_o_projeto): Minha aventura no mundo de Python, onde [descrição breve do projeto].
+<summary><img align="top" alt="Coding" width="100" src="https://github.com/LucianMontibeller/curso_udemy_Python-3-completo/blob/main/imagens/python3-logo.png?raw=true"> Curso udemy Python 3: - EM ANDAMENTO.</summary>  
+<br>
+  <img align="right" alt="Coding" width="200" src="https://github.com/LucianMontibeller/curso_udemy_Python-3-completo/blob/main/imagens/python3-logo.png?raw=true">
+
+Seção 02: Python Básico (Lógica de programação)
+  
+-  [aula01-comentários de código em python](https://github.com/LucianMontibeller/curso_udemy_Python-3-completo/tree/main/Conteudo_do_curso/secao02-python-basico/aula01)
+  
+-  [aula02-O Comando print](https://github.com/LucianMontibeller/curso_udemy_Python-3-completo/tree/main/Conteudo_do_curso/secao02-python-basico/aula02)
+
+-  [aula03-String(TEXTO) e aspas em Python](https://github.com/LucianMontibeller/curso_udemy_Python-3-completo/tree/main/Conteudo_do_curso/secao02-python-basico/aula03)
+  
+-  [aula04-Tipo de dados "Primitivos"](https://github.com/LucianMontibeller/curso_udemy_Python-3-completo/tree/main/Conteudo_do_curso/secao02-python-basico/aula04-tipos-de-dados-primitivos)
+
+-  [aula05-Operadores aritméticos](https://github.com/LucianMontibeller/curso_udemy_Python-3-completo/tree/main/Conteudo_do_curso/secao02-python-basico/aula05-operadores-aritmeticos)
+
+-  [aula06-Variáveis](https://github.com/LucianMontibeller/curso_udemy_Python-3-completo/tree/main/Conteudo_do_curso/secao02-python-basico/aula06-variaveis)
+-  [aula07-Introdução-Formatação de Strings](https://github.com/LucianMontibeller/curso_udemy_Python-3-completo/tree/main/Conteudo_do_curso/secao02-python-basico/aula07-introducao-formatacao-string)
+
+-  [aula08-Desafio](https://github.com/LucianMontibeller/curso_udemy_Python-3-completo/tree/main/Conteudo_do_curso/secao02-python-basico/aula08-desafio)
+
+
+
 
 ## Objetivos
 
