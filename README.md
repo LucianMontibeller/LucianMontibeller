@@ -86,7 +86,7 @@ Seção 02: Python Básico (Lógica de programação)
 
 -  [aula08-Desafio](https://github.com/LucianMontibeller/curso_udemy_Python-3-completo/tree/main/Conteudo_do_curso/secao02-python-basico/aula08-desafio)
 
-
+</details>
 
 
 ## Objetivos
