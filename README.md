@@ -97,7 +97,7 @@ Meu objetivo é continuar aprendendo, me aprimorando e contribuindo para projeto
 
 ## Vamos Conectar!
 
-🌐 [LinkedIn](link_para_o_perfil_do_LinkedIn): Vamos trocar experiências e conhecimentos na rede profissional.
+🌐 [LinkedIn](https://www.linkedin.com/in/lucian-montibeller-81218a222/): Vamos trocar experiências e conhecimentos na rede profissional.
 
 ## Conclusão
 
