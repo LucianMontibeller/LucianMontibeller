@@ -21,8 +21,10 @@ Oi, meu nome é Lucian Rafael Montibeller, e estou entusiasmado em embarcar ness
 Curso udemy JavaScript - EM ANDAMENTO</summary> 
 <br>
 <img align="right" alt="Coding" width="200" src="https://github.com/LucianMontibeller/curso_udemy_Python-3-completo/blob/main/imagens/JavaScript-Logo.png">
-Seção 02: JavaScript Básico para iniciantes
-
+<details>
+<summary>Seção 02: JavaScript Básico para iniciantes</summary>
+<br>
+  
 
 - [aula01 - A primeira coisa que você vai ver em JS](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao02-JavaScript-Basico-Para-iniciantes/aula01)
 
@@ -63,8 +65,71 @@ Seção 02: JavaScript Básico para iniciantes
 -  [aula19-valores-primitivos-e-referencia](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao02-JavaScript-Basico-Para-iniciantes/aula19-valores-primitivos-e-referencia)
 
 -  [aula20-exercicio-funcao-arrays-objetos](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao02-JavaScript-Basico-Para-iniciantes/aula20-exercicio-funcao-arrays-objetos)
+  
 </details>
 
+<details>
+<summary>Seção 03: JavaScript lógica de programação</summary>
+<br>
+
+- [Modelo-HTML-e-CSS](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/Modelo-HTML-e-CSS)
+
+-  [aula01-Operadores-de-comparação](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula01-operadores-de-comparacao)
+
+-  [aula02-operadores-logicos](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula02-operadores-logicos)
+
+-  [aula03-AvaliacaodeCurto-Circuito](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula03-AvaliacaodeCurto-Circuito)
+
+-  [aula04-if-else-01](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula04-if-else-01)
+
+-  [aula05-if-else-02](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula05-if-else-02)
+
+-  [aula06-Exercicio-tudo-foi-que-aprendido](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula06-Exercicio-tudo-foi-que-aprendido)
+
+  -  [aula07-operacao-ternaria](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula07-operacao-ternaria)
+
+ -  [aula08-objeto-Date](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula08-objeto-Date)
+
+ -  [aula09-Switch-Case](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula09-Switch-Case)
+
+ -  [aula10-diferenca-let-const](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula10-diferenca-let-const)
+
+ -  [aula11-atribuicao-desestruturacao-arrays](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula11-atribuicao-desestruturacao-arrays)
+
+ -  [aula12-atribuicao-desestruturacao-objetos](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula12-atribuicao-desestruturacao-objetos)
+
+ -  [aula13-for-classico-estrutura-de-repeticao](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula13-for-classico-estrutura-de-repeticao)
+
+ -  [aula14-exercicio-for](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula14-exercicio-for)
+
+ -  [aula15-DOM](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula15-DOM)
+
+ -  [aula15-For-in](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula15-For-in)
+
+ -  [aula16-For-of](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula16-For-of)
+
+ -  [aula17-exercicio-nodeList-Browser](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula17-exercicio-nodeList-Browser)
+
+ -  [aula18-while-do-while](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula18-while-do-while)
+
+ -  [aula19-breck-continue](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula19-breck-continue)
+
+ -  [aula20-exercicio-logica01](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula20-exercicio-logica01)
+
+ -  [aula21-exercicio-logica02](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula21-exercicio-logica02)
+
+ -  [aula22-exercicio-logica03](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula22-exercicio-logica03)
+
+ -  [aula23-tratando-lancando-erros](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula23-tratando-lancando-erros)
+
+ -  [aula24-setInterval-setTimeout](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula24-setInterval-setTimeout)
+
+ -  [aula25-exercicio-criando-time-setInterval](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula25-exercicio-criando-time-setInterval)
+
+ -  [aula26-criando-lista-tarefas](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula26-criando-lista-tarefas)
+
+</details>
+</details>
 
 <details>
 
@@ -129,6 +194,7 @@ Não tem nada neste seção por se tratar somente de preparar o ambiente de trab
 -  [aula10 - funcoes](https://github.com/LucianMontibeller/bootcamp-DIO/tree/main/Pot%C3%AAncia-Tech-powered-by-iFood-Ci%C3%AAncia-de-Dados/secao02-dominando-python-ciencia-de-dados/aula10-funcoes)
 
 -  [desafio-otimizando-sistema-bancario](https://github.com/LucianMontibeller/bootcamp-DIO/tree/main/Pot%C3%AAncia-Tech-powered-by-iFood-Ci%C3%AAncia-de-Dados/secao02-dominando-python-ciencia-de-dados/desafio-otimizando-sistema-bancario)
+</details>
 
 
 ## Objetivos
